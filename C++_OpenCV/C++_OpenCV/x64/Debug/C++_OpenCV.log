@@ -1,0 +1,3 @@
+﻿  Chapter8.cpp
+C:\Study_Docs\Interests\DAE_C++\C++_OpenCV\C++_OpenCV\Chapter8.cpp(12,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  C++_OpenCV.vcxproj -> C:\Study_Docs\Interests\DAE_C++\C++_OpenCV\x64\Debug\C++_OpenCV.exe
